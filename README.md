@@ -23,6 +23,7 @@ Search relevancy is an implicit measure Home Depot uses to gauge how quickly the
 2.5 Conclusion<br>
         Results<br>
 <br>
+<br>
 In our project, we would help Home Depot’s to improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.<br>
 Home depot is the equivalent of selling hardware (like Google vertically) , when we type in the search box, "I want to build a house’’, all the tools used to build the house would show up. This is the background.<br>
 The core of this project is natural language processing, the nature of NLP is the conversion of a natural language into a computer language, so the first thing we need to understand natural language processing steps, roughly from text, Tokenize, Lemma or Stemming, stopwords, to Word_List (this is the typical text pretreatment) and then do the feature engineering, which is the text into digital, finally we can build some model to train the data and We get what we want.<br>
