@@ -1,29 +1,29 @@
 # Final-Project
 Home Depot Search Relevance<br>
 <br>
-Summary of the project and data<br>
+1. Summary of the project and data<br>
 Shoppers rely on Home Depot’s product authority to find and buy the latest products and to get timely solutions to their home improvement needs. From installing a new ceiling fan to remodeling an entire kitchen, with the click of a mouse or tap of the screen, customers expect the correct results to their queries – quickly. Speed, accuracy and delivering a frictionless customer experience are essential.<br>
 In our project, we would help Home Depot’s to improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.<br>
 Search relevancy is an implicit measure Home Depot uses to gauge how quickly they can get customers to the right products. Currently, human raters evaluate the impact of potential changes to their search algorithms, which is a slow and subjective process. By removing or minimizing human input in search relevance evaluation, Home Depot hopes to increase the number of iterations their team can perform on the current search algorithms.<br>
 <br>
-Instructions<br>
+2. Instructions<br>
 <br>
-Import Data<br>
+2.1 Import Data<br>
 	Import libraries<br>
 	Load data<br>
 	Add product descriptions to all table<br>
-Text Preprocessing<br>
+2.2 Text Preprocessing<br>
 	Text Feature Extraction Functions<br>
         Convert number to word<br>
 	Lower, remove symbol stop words<br>
 	Stemming<br>
-Text Feature<br>
+2.3 Text Feature<br>
 	String distance<br>
 	TF IDF<br>
 	Word2Vec<br>
-Data Modeling<br>
+2.4 Data Modeling<br>
 	GBDT<br>
-Conclusion<br>
+2.5 Conclusion<br>
         Results<br>
 <br>
 In our project, we would help Home Depot’s to improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.<br>
